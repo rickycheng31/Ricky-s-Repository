@@ -1,1 +1,2 @@
-print("hello new script")
+def printer():
+    print("hello new script")
